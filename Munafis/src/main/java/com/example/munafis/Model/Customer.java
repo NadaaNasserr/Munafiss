@@ -35,4 +35,5 @@ public class Customer {
     private String address;
 
     private String role;
+    private String s;
 }
